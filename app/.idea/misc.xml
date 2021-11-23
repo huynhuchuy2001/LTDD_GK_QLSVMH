@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TaiLieu/HUYNHDUCHUY-PC/HKI_Nam3/LTDD/GiuaKy/megacode_qlsinhvien/QLSinhVien/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.15989583333333332" />
+        <entry key="..\:/TaiLieu/HUYNHDUCHUY-PC/HKI_Nam3/LTDD/GiuaKy/megacode_qlsinhvien/QLSinhVien/app/src/main/res/drawable/ic_baseline_subject_24.xml" value="0.15989583333333332" />
+        <entry key="..\:/TaiLieu/HUYNHDUCHUY-PC/HKI_Nam3/LTDD/GiuaKy/megacode_qlsinhvien/QLSinhVien/app/src/main/res/drawable/ic_baseline_update_24.xml" value="0.15989583333333332" />
+        <entry key="..\:/TaiLieu/HUYNHDUCHUY-PC/HKI_Nam3/LTDD/GiuaKy/megacode_qlsinhvien/QLSinhVien/app/src/main/res/drawable/ic_launcher_background.xml" value="0.15989583333333332" />
+        <entry key="..\:/TaiLieu/HUYNHDUCHUY-PC/HKI_Nam3/LTDD/GiuaKy/megacode_qlsinhvien/QLSinhVien/app/src/main/res/layout/activity_add_student.xml" value="0.4" />
+        <entry key="..\:/TaiLieu/HUYNHDUCHUY-PC/HKI_Nam3/LTDD/GiuaKy/megacode_qlsinhvien/QLSinhVien/app/src/main/res/layout/activity_add_subjects.xml" value="0.4" />
+        <entry key="..\:/TaiLieu/HUYNHDUCHUY-PC/HKI_Nam3/LTDD/GiuaKy/megacode_qlsinhvien/QLSinhVien/app/src/main/res/layout/activity_information_student.xml" value="0.264" />
+        <entry key="..\:/TaiLieu/HUYNHDUCHUY-PC/HKI_Nam3/LTDD/GiuaKy/megacode_qlsinhvien/QLSinhVien/app/src/main/res/layout/activity_information_subject.xml" value="0.12" />
+        <entry key="..\:/TaiLieu/HUYNHDUCHUY-PC/HKI_Nam3/LTDD/GiuaKy/megacode_qlsinhvien/QLSinhVien/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/TaiLieu/HUYNHDUCHUY-PC/HKI_Nam3/LTDD/GiuaKy/megacode_qlsinhvien/QLSinhVien/app/src/main/res/layout/activity_student.xml" value="0.176" />
+        <entry key="..\:/TaiLieu/HUYNHDUCHUY-PC/HKI_Nam3/LTDD/GiuaKy/megacode_qlsinhvien/QLSinhVien/app/src/main/res/layout/activity_subjects.xml" value="0.264" />
+        <entry key="..\:/TaiLieu/HUYNHDUCHUY-PC/HKI_Nam3/LTDD/GiuaKy/megacode_qlsinhvien/QLSinhVien/app/src/main/res/layout/activity_update_student.xml" value="0.264" />
+        <entry key="..\:/TaiLieu/HUYNHDUCHUY-PC/HKI_Nam3/LTDD/GiuaKy/megacode_qlsinhvien/QLSinhVien/app/src/main/res/layout/activity_update_subject.xml" value="0.264" />
+        <entry key="..\:/TaiLieu/HUYNHDUCHUY-PC/HKI_Nam3/LTDD/GiuaKy/megacode_qlsinhvien/QLSinhVien/app/src/main/res/layout/dialogadd.xml" value="0.2" />
+        <entry key="..\:/TaiLieu/HUYNHDUCHUY-PC/HKI_Nam3/LTDD/GiuaKy/megacode_qlsinhvien/QLSinhVien/app/src/main/res/layout/dialogaddstudent.xml" value="0.2" />
+        <entry key="..\:/TaiLieu/HUYNHDUCHUY-PC/HKI_Nam3/LTDD/GiuaKy/megacode_qlsinhvien/QLSinhVien/app/src/main/res/layout/dialogdeletestudent.xml" value="0.2" />
+        <entry key="..\:/TaiLieu/HUYNHDUCHUY-PC/HKI_Nam3/LTDD/GiuaKy/megacode_qlsinhvien/QLSinhVien/app/src/main/res/layout/dialogdeletesubject.xml" value="0.14375" />
+        <entry key="..\:/TaiLieu/HUYNHDUCHUY-PC/HKI_Nam3/LTDD/GiuaKy/megacode_qlsinhvien/QLSinhVien/app/src/main/res/layout/dialogexit.xml" value="0.14375" />
+        <entry key="..\:/TaiLieu/HUYNHDUCHUY-PC/HKI_Nam3/LTDD/GiuaKy/megacode_qlsinhvien/QLSinhVien/app/src/main/res/layout/dialoginformation.xml" value="0.14375" />
+        <entry key="..\:/TaiLieu/HUYNHDUCHUY-PC/HKI_Nam3/LTDD/GiuaKy/megacode_qlsinhvien/QLSinhVien/app/src/main/res/layout/dialogupdate.xml" value="0.264" />
+        <entry key="..\:/TaiLieu/HUYNHDUCHUY-PC/HKI_Nam3/LTDD/GiuaKy/megacode_qlsinhvien/QLSinhVien/app/src/main/res/layout/dialogupdatestudent.xml" value="0.264" />
+        <entry key="..\:/TaiLieu/HUYNHDUCHUY-PC/HKI_Nam3/LTDD/GiuaKy/megacode_qlsinhvien/QLSinhVien/app/src/main/res/layout/liststudent.xml" value="0.4" />
+        <entry key="..\:/TaiLieu/HUYNHDUCHUY-PC/HKI_Nam3/LTDD/GiuaKy/megacode_qlsinhvien/QLSinhVien/app/src/main/res/layout/listsubject.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
